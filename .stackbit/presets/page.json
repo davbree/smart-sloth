@@ -1,5 +1,5 @@
 {
-    "model": "Page",
+    "model": "PageLayout",
     "presets": [{
             "label": "Contact us page",
             "thumbnail": "images/contact-dark-image-r.png",
