@@ -47,6 +47,9 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
+    badge:
+      elementId: ''
+      label: lorem-ipsum
   - type: HeroSection
     elementId: homepage-hero-1
     variant: variant-a
