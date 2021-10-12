@@ -5,7 +5,7 @@
             "thumbnail": "images/contact-dark-image-r.png",
             "data": {
                 "title": "Contact us",
-                "section": [
+                "sections": [
                     {
                         "type": "HeroSection",
                         "title": "Contact Us"
