@@ -1,7 +1,7 @@
 {
     "model": "Page",
     "presets": [{
-            "label": "Contact us dark - With image (right)",
+            "label": "Contact us page",
             "thumbnail": "images/contact-dark-image-r.png",
             "data": {
                 "title": "Contact us"
