@@ -4,13 +4,7 @@
             "label": "Contact us dark - With image (right)",
             "thumbnail": "images/contact-dark-image-r.png",
             "data": {
-                "title": "Contact us",
-                "text": "We look forward to hearing from you.",
-                "variant": "variant-a",
-                "colors": "colors-c",
-                "badge": "",
-                "idAttr": "contact-form",
-                "action": "/.netlify/functions/submission_created"
+                "title": "Contact us"
             }
         },
         {
