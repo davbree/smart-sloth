@@ -21,32 +21,6 @@ sections:
       url: /images/post-1.jpeg
       altText: Product Marketing Manager Quote
     type: QuoteSection
-  - elementId: ''
-    colors: colors-a
-    width: wide
-    height: short
-    contentWidth: large
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    topGap: none
-    bottomGap: none
-    textAlign: left
-    variant: variant-a
-    badge: {}
-    title: Testimonials
-    subtitle: What our customers say about us
-    testimonials:
-      - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          type: ImageBlock
-          url: /images/dianne-ameter.jpg
-          altText: Product Marketing Manager
-    type: TestimonialsSection
   - type: HeroSection
     elementId: homepage-hero-1
     variant: variant-a
@@ -82,6 +56,32 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: short
+    contentWidth: large
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    topGap: none
+    bottomGap: none
+    textAlign: left
+    variant: variant-a
+    badge: {}
+    title: Testimonials
+    subtitle: What our customers say about us
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/dianne-ameter.jpg
+          altText: Product Marketing Manager
+    type: TestimonialsSection
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
