@@ -1,5 +1,5 @@
 {
-    "model": "ContactSection",
+    "model": "Page",
     "presets": [{
             "label": "Contact us dark - With image (right)",
             "thumbnail": "images/contact-dark-image-r.png",
