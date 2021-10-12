@@ -4,7 +4,13 @@
             "label": "Contact us page",
             "thumbnail": "images/contact-dark-image-r.png",
             "data": {
-                "title": "Contact us"
+                "title": "Contact us",
+                "section": [
+                    {
+                        "type": "HeroSection",
+                        "title": "Contact Us"
+                    }
+                ]
             }
         },
         {
