@@ -2,25 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: TestimonialsSection
-    variant: variant-b
-    colors: colors-h
-    width: wide
-    height: short
-    textAlign: left
-    bottomGap: none
-    topGap: none
-    contentAlignHoriz: center
-    testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Isabelle Parks
-        title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/isabelle-parks.jpg
-          altText: Isabelle Parks
   - type: ContactSection
     variant: variant-b
     colors: colors-h
@@ -202,4 +183,23 @@ sections:
       Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+  - type: TestimonialsSection
+    variant: variant-b
+    colors: colors-h
+    width: wide
+    height: short
+    textAlign: left
+    bottomGap: none
+    topGap: none
+    contentAlignHoriz: center
+    testimonials:
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Isabelle Parks
+        title: Head chef at Parks
+        image:
+          type: ImageBlock
+          url: /images/isabelle-parks.jpg
+          altText: Isabelle Parks
 ---
