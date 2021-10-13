@@ -2,7 +2,7 @@
     "model": "PostLayout",
     "presets": [{
             "label": "Basic Post",
-            "thumbnail": "images/contact-dark-image-r.png"
-        },
+           "thumbnail": "images/contact-dark-image-r.png"
+        }
     ]
 }
