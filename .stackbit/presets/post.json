@@ -1,5 +1,5 @@
 {
-    "model": "PostLayout",
+    "model": "PostLayout1",
     "presets": [{
             "label": "Basic Post",
            "thumbnail": "images/contact-dark-image-r.png"
